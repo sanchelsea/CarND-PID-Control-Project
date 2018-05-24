@@ -1,4 +1,4 @@
-#**PID Controller** 
+**PID Controller** 
 
 ---
 
@@ -14,15 +14,9 @@ The goals / steps of this project are the following:
 * Summarize the reflection with a written report
 
 
-[//]: # (Image References)
 
-[image1]: ./examples/ModelBC.png "Model Visualization"
-[image2]: ./examples/graph.png "MSE Loss"
-[image3]: ./examples/multicamera.png "Track 1 Driving"
-
-
-## Results / Reflection
-A video of the simulated car driving around the track can be found [here.](https://github.com/mvirgo/PID-Control-Project/blob/master/PID_control_vid.mov)
+### Results / Reflection
+A video of the simulated car driving around the track can be found [here.](https://github.com/sanchelsea/CarND-PID-Control-Project/blob/master/self_driving_car_nanodegree_program%205_24_2018%201_29_51%20AM.mp4)
 
 #### Components of PID
 
